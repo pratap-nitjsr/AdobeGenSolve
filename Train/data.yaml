@@ -1,0 +1,6 @@
+train: /kaggle/input/shapesyolo/CustomDataset/train/images
+val: /kaggle/input/shapesyolo/CustomDataset/val/images
+test: /kaggle/input/shapesyolo/CustomDataset/test/images
+
+nc: 7
+names: ['Circle', 'Ellipse', 'Line', 'Polygon', 'Rectangle', 'Star', 'RoundedRectangle']
